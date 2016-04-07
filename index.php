@@ -38,7 +38,7 @@
 
 			<footer>
 				<p>
-					&copy; Copyright  by Cyril
+					&copy; Copyright  by Cyril Ibrahim
 				</p>
 			</footer>
 		</div>
